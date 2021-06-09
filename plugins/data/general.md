@@ -1,3 +1,6 @@
-**A collection source represents some data that is added to WeWeb from an external tool.**
+# What is a Data Source?
 
-It can come **from many tools** (like Airtable or an API) and be **filtered or sorted** the way you want.
+## An external place where your data are
+Your Data can come from any place like a database or a spreadsheet. Here you can select any plugin to easily get these data and then display them into your pages. 
+
+Select a plugin and click the `Add` button to try this out.
