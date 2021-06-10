@@ -1,3 +1,3 @@
-<iframe src="https://www.youtube-nocookie.com/embed/76CMCIW-wGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+A collection source represents some data that is added to WeWeb from an external tool.
 
-Source of collection
+It can come from many tools (like Airtable or an API) and be filtered or sorted the way you want.
