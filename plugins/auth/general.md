@@ -10,3 +10,4 @@ Learn more about each Authentication plugin in the WeWeb user documentation:
 * <a href="https://docs.weweb.io/plugins/auth-systems/supabase-auth.html" target="_blank" class="ww-editor-link">Supabase Auth</a>
 * <a href="https://docs.weweb.io/plugins/auth-systems/weweb-auth.html" target="_blank" class="ww-editor-link">WeWeb Auth</a>
 * <a href="https://docs.weweb.io/plugins/auth-systems/token-based-auth.html" target="_blank" class="ww-editor-link">Token-Based Auth</a>
+* <a href="https://docs.weweb.io/plugins/auth-systems/open-id.html" target="_blank" class="ww-editor-link">OpenID</a>
