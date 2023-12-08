@@ -1,4 +1,5 @@
 Libraries are a way to streamline your work between projects. When you share your project with your workspace, it will appear in this list.
+
 You can only edit a library from the project it originated from.
 Once added, the project uses a specific version of the library. If you or someone else publishes a new version of the library, you’ll be able to choose whether or not you want to use the latest updated version for each project.
 
