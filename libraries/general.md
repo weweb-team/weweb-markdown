@@ -4,4 +4,4 @@ Once added, the project uses a specific version of the library. If you or someon
 
 To get started with libraries, the best way is to duplicate the template ‘Starter kit’ into your workspace and publish its library. You don’t have to publish a project to share a library, so it’s completely free.
 
-More details here [here](https://docs.weweb.io/libraries/intro-to-libraries.html )
+More details [here](https://docs.weweb.io/libraries/intro-to-libraries.html )
